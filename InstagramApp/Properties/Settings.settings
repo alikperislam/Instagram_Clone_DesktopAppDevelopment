@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="InstagramApp.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="kul" Type="System.String" Scope="User">
+      <Value Profile="(Default)">alikperislam</Value>
+    </Setting>
+    <Setting Name="par" Type="System.String" Scope="User">
+      <Value Profile="(Default)">6fcQSpM.123qWe2</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
